@@ -7,4 +7,4 @@ if you skid give credit, cheers
 chasa <3
 
 
-(Discord Server)[https://chasa.wtf/discord]
+[Discord Server](https://chasa.wtf/discord)
