@@ -5,7 +5,7 @@ bot = commands.Bot(command_prefix="394893", self_bot=True, intents=discord.Inten
 
 @bot.event
 async def on_ready():
-    id = int(input("Channel ID: "))
+    id = int(input("User ID: "))
     try:
         channel = bot.get_user(id).dm_channel
     except:
