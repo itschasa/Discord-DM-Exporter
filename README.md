@@ -1,5 +1,5 @@
 # Discord-DM-Exporter
-Download all messages from a channel in Discord. Attachments included.
+Download all messages from a DM channel in Discord. Attachments included.
 
 Someone in my server wanted it so here it is lol.
 
